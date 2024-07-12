@@ -1,0 +1,3 @@
+First calculation: 64.7259515034698
+Second calculation: 2.0
+Third calculation: 2.0

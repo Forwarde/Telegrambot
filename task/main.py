@@ -1,0 +1,3 @@
+from module import thirt_part3_level_medium_task
+
+thirt_part3_level_medium_task()
